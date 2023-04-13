@@ -22,7 +22,7 @@ Train_Full
   - text file 2
 - label 2
   - text file 1
-  - text file 2
+  - text file 2  
 Text_Full
 - label 1
   - text file 1
