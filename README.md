@@ -17,8 +17,8 @@
 ## Mô tả cấu trúc thư mục
 Train và Test sẽ có cấu trúc chung các file như nhau:  
 Train_Full
-- label 1
-  - text file 1
+- label 1 (tên của thư mục cũng là label của các file con trong nó)
+  - text file 1 (chứa nội dung của bài báo)
   - text file 2
 - label 2
   - text file 1
