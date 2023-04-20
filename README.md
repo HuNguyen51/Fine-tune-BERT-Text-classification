@@ -1,4 +1,4 @@
-# Fine-tune-BERT-Text-classification là một bài phân loại văn bản báo chí được lấy từ (https://github.com/duyvuleo/VNTC/tree/master/Data/10Topics/Ver1.1)
+# Fine-tune-BERT-Text-classification là một bài phân loại văn bản báo chí được lấy từ <a href='https://github.com/duyvuleo/VNTC/tree/master/Data/10Topics/Ver1.1'>VNTC</a>
 ## Giới thiệu
 - Các bước xử lý dữ liệu
   - Đầu tiên tải bộ dữ liệu rồi giải nén
